@@ -42,7 +42,7 @@ Welcome to my GitHub! I’m passionate about designing and building software tha
 
 ## 🌱 Currently Exploring  
 - ☁️ Cloud Computing with **AWS**  
-- 🏗 Advanced **Advanced Machine Learning Concepts**  
+- 🏗 Advanced **Machine Learning Concepts**  
 - ⚡ Optimizing **Frontend Performance**  
 
 ---
