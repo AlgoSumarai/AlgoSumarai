@@ -15,7 +15,8 @@ Welcome to my GitHub! I’m passionate about designing and building software tha
 ---
 
 ## 📌 Featured Projects  
-- 📊 **KithcenBuddyAPI(#)** – .NET core + SQL API with authentication & CRUD operations.  
+- 📊 **KithcenBuddyAPI(#)** – .NET core + SQL API with authentication & CRUD operations.
+- 🤖 **snakeAI** -  reinforcement learning agent to play the classic Snake game.
 
 ---
 
