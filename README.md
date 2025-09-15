@@ -45,56 +45,7 @@
 
 ---
 
-## 🤝 Connect With Me  
 
-<p align="center">
-  <a href="<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mulanga+👋;Aspiring+Machine+Learning+Engineer;Full-Stack+Developer;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-## 🔧 Tech Stack  
-**Languages:**  
-💻 Java · C# · JavaScript · TypeScript · Python · SQL  
-
-**Frameworks & Libraries:**  
-⚛️ React.js · Node.js · Express.js · .NET Core  · pyTorch
-
-**Databases:**  
-🗄️ MySQL · PostgreSQL · MongoDB  
-
-**Other Tools:**  
-🛠️ Git · Docker · Webpack · NPM · Postman  
-
----
-
-## 🌟 Featured Projects  
-- 📊 **[KitchenBuddyAPI](#)**  
-  .NET Core + SQL REST API with **authentication**, **authorization**, and CRUD operations.  
-
-- 🤖 **SnakeAI**  
-  Reinforcement learning agent using PyTorch to master the classic Snake game.  
-
----
-
-## 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MulangaSennelo&show_icons=true&theme=radical" alt="Mulanga's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MulangaSennelo&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>  
-
----
-
-## 🌱 What I’m Currently Exploring  
-- 🧠 Machine Learning & Deep Learning (PyTorch, TensorFlow)  
-- ☁️ Cloud Computing & Deployment (AWS, Azure, Docker)  
-- 🏗️ Building scalable SaaS apps with .NET Core & React  
-
----
 
 ## 🤝 Connect With Me  
 
