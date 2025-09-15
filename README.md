@@ -1,9 +1,8 @@
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mulanga+👋;Aspiring+Machine+Learning+Engineer;Full-Stack+Developer;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mulanga+👋;Aspiring+Machine+Learning+Engineer;Full-Stack+Developer;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -33,8 +32,8 @@
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MulangaSennelo&show_icons=true&theme=radical" alt="Mulanga's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MulangaSennelo&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UserO21230&show_icons=true&theme=radical" alt="Mulanga's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=User021230&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>  
 
 ---
