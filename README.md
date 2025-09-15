@@ -1,6 +1,6 @@
 # Hi there, I'm Mulanga 👋  
 
-🚀 **Aspiring Software Engineer | Full-Stack Developer | Tech Enthusiast**  
+🚀 **Aspiring Machine Learning Engineer | Full-Stack Developer | Tech Enthusiast**  
 
 Welcome to my GitHub! I’m passionate about designing and building software that solves real-world problems. I enjoy working across the stack, from crafting clean user interfaces to building scalable backend systems.  
 
