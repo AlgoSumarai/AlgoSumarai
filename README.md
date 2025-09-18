@@ -46,21 +46,10 @@
 ---
 
 
-
 ## 🤝 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mgsennelo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
-</p>
-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mgsennelo@gmail.com">
