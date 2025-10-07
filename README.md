@@ -32,8 +32,8 @@
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=User021230&show_icons=true&theme=radical" alt="Mulanga's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=User021230&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlgoSumarai&show_icons=true&theme=radical" alt="Mulanga's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoSumarai&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>  
 
 ---
@@ -55,7 +55,7 @@
   <a href="mailto:mgsennelo@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
+  <!-- <a href="https://YOUR-PORTFOLIO.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
