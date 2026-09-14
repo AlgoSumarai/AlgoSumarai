@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, I'm Sennelo Mulanga 👋</h1>
-  <p><strong>Full-stack developer building practical products with clean UX and intelligent systems.</strong></p>
+  <p><strong>Full-stack software engineer building reliable APIs, web applications, and AI-powered products with C#/.NET, TypeScript, React, and Python.</strong></p>
   <p>
     <a href="https://www.linkedin.com/in/mulangasennelo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/AlgoSumarai"><img src="https://img.shields.io/github/followers/AlgoSumarai?label=Follow&style=flat-square&logo=github" alt="GitHub followers"></a>
