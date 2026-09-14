@@ -17,20 +17,29 @@ I’m a developer based in Johannesburg, South Africa, who enjoys turning ideas 
 - Interested in visualizing complex ideas and making them easier to use
 - Open to thoughtful collaborations, interesting problems, and shipping useful things
 
+## What I bring
+
+- Backend APIs with C#/.NET, ASP.NET Core, Entity Framework Core, REST, JWT authentication, and SQL-backed persistence
+- Frontend product work with TypeScript, React, Next.js, Vite, Tailwind CSS, and responsive UI
+- Practical AI/ML: structured AI responses in an API and PyTorch reinforcement-learning experiments
+- Maintainable architecture: separating core algorithm logic, UI renderers, state, and content in an interactive learning product
+
 ## Featured work
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [AlgoDojo](https://github.com/AlgoSumarai/algo-dojo) | Interactive visual learning for data structures and algorithms, with animated step-by-step frames. | TypeScript · Next.js · Tailwind CSS |
-| [KitchenBuddyAPI](https://github.com/AlgoSumarai/KitchenBuddyAPI) | AI-assisted recipe and nutrition API that works from the ingredients you have. | C# · ASP.NET Core · Entity Framework |
-| [Snake AI](https://github.com/AlgoSumarai/snake-ai-pytorch) | A reinforcement-learning agent trained to play the classic Snake game. | Python · PyTorch |
-| [Portfolio website](https://github.com/AlgoSumarai/portfolio-website) | A lightweight, responsive portfolio built for fast iteration and deployment. | React · Vite · CSS |
+| [AlgoDojo](https://github.com/AlgoSumarai/algo-dojo) · [Live demo](https://algo-dojo-bice.vercel.app/) | Interactive learning platform for algorithms and data structures with MDX lessons, pure step generators, animated SVG visualizers, and play/pause/step/scrub controls. | TypeScript · Next.js · Tailwind CSS · Zustand |
+| [KitchenBuddyAPI](https://github.com/AlgoSumarai/KitchenBuddyAPI) | AI-enabled ASP.NET Core REST API with recipe CRUD, ingredient/category management, JWT authentication, EF Core persistence, and DeepSeek-powered recipe generation. | C# · ASP.NET Core 8 · EF Core · SQLite/SQL Server |
+| [Snake AI](https://github.com/AlgoSumarai/snake-ai-pytorch) · [Demo GIF](https://github.com/AlgoSumarai/snake-ai-pytorch/blob/main/docs/snakeDemo.gif) | PyTorch reinforcement-learning project with a neural-network model, agent memory, training loop, and visualized progress. | Python · PyTorch |
+| [Portfolio website](https://github.com/AlgoSumarai/portfolio-website) · [Live site](https://algosumarai.github.io/portfolio-website/) | Responsive React/Vite single-page portfolio with reusable components, a project carousel, and GitHub Pages deployment. | React · Vite · CSS |
 
 ## Toolbox
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,cs,dotnet,python,pytorch,git,github,figma" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, C#, .NET, Python, PyTorch, Git, GitHub, and Figma">
 </p>
+
+Additional project technologies: ASP.NET Core 8 · Entity Framework Core · Zustand · Framer Motion · shadcn/ui · MDX · JWT · SQLite · SQL Server · LINQ
 
 ## GitHub at a glance
 
@@ -41,12 +50,16 @@ I’m a developer based in Johannesburg, South Africa, who enjoys turning ideas 
 
 > GitHub’s native contribution graph below shows my latest activity across projects.
 
-## Currently exploring
+## Current focus
 
-- More visual and interactive ways to learn technical concepts
-- AI features that feel useful—not ornamental
-- Maintainable full-stack architecture from idea to deployment
+- Shipping small, useful full-stack products from a clear user problem to a working deployment
+- Building AI features with explicit structure, validation, and graceful error handling
+- Making technical concepts easier to understand through interactive visualizations
+
+## Open to opportunities
+
+I’m open to junior software engineering roles in Johannesburg or remote, especially on teams building APIs, web products, and practical AI features.
 
 ## Let’s connect
 
-If you’re building something interesting or want to talk software, say hello on [LinkedIn](https://www.linkedin.com/in/mulangasennelo).
+View my [portfolio](https://algosumarai.github.io/portfolio-website/) or say hello on [LinkedIn](https://www.linkedin.com/in/mulangasennelo).
