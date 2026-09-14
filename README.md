@@ -35,9 +35,11 @@ I’m a developer based in Johannesburg, South Africa, who enjoys turning ideas 
 ## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlgoSumarai&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0f766e&text_color=475569&icon_color=0f766e" alt="Sennelo's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoSumarai&layout=compact&hide_border=true&theme=transparent&title_color=0f766e&text_color=475569" alt="Sennelo's top languages">
+  <a href="https://github.com/AlgoSumarai?tab=repositories"><img src="https://img.shields.io/badge/Explore_repositories-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
+  <a href="https://github.com/AlgoSumarai?tab=overview"><img src="https://img.shields.io/badge/View_contributions-334155?style=for-the-badge&logo=github&logoColor=white" alt="View contributions"></a>
 </div>
+
+> GitHub’s native contribution graph below shows my latest activity across projects.
 
 ## Currently exploring
 
