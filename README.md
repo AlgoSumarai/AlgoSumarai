@@ -11,7 +11,7 @@
 
 ## About me
 
-I’m a developer based in Johannesburg, South Africa, who enjoys turning ideas into useful software. I move across the stack—from expressive TypeScript interfaces to dependable .NET APIs and Python experiments with machine learning.
+I’m a Software Engineer based in Johannesburg, South Africa, who enjoys turning ideas into useful software. I move across the stack—from expressive TypeScript interfaces to dependable .NET APIs and Python experiments with machine learning.
 
 - Building educational tools, product prototypes, and AI-assisted applications
 - Interested in visualizing complex ideas and making them easier to use
